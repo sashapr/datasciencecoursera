@@ -48,9 +48,9 @@ The final data set consists of 81 variables.
 2. For every subject and activity combination I took the average of the all 79 variables and created a final tidy_data_average set. Thus, each cell there shows the average for the corresponding subject (column "subject.ID") and corresponding activity (column "activity") for a given variable from the original data set (all other 79 column names):
 
 Name |  Type | Description  
---- | ---
+--- | --- | ---
 subject.ID | integer | ID of subjects, from 1 to 30
-activity | string | Activity performed (Walking, Walking_upstrairs, Walking_Downstairs, Sitting, Standing, Laying)
+activity | factor | Activity performed (Walking, Walking_upstrairs, Walking_Downstairs, Sitting, Standing, Laying)
 
 Measured averages | Type
 --- | ---
