@@ -2,7 +2,7 @@
 This file describes how to use code to prepare tidy data out of Human Activity Recognition Using Smartphones Data Set (more information in the data is avalilable here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 ## Data
-All the data should be unzipped to the same directory as code file. Working directory should be set as the directory with the code and data (first line in the file).
+All the data should be unzipped to the same directory as code file (run_analysis.R). Working directory should be set as the directory with the code and data (first line in the file).
 
 ## Analysis
 Run the code "run_analysis.R". The code includes comments, therefore should be relatively straight-forward to follow. The code does the following:
